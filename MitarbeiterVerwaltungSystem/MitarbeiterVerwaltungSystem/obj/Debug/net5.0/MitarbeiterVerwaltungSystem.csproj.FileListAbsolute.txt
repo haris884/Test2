@@ -1,0 +1,16 @@
+C:\Users\FP2402383\source\repos\MitarbeiterVerwaltungSystem\MitarbeiterVerwaltungSystem\bin\Debug\net5.0\MitarbeiterVerwaltungSystem.exe
+C:\Users\FP2402383\source\repos\MitarbeiterVerwaltungSystem\MitarbeiterVerwaltungSystem\bin\Debug\net5.0\MitarbeiterVerwaltungSystem.deps.json
+C:\Users\FP2402383\source\repos\MitarbeiterVerwaltungSystem\MitarbeiterVerwaltungSystem\bin\Debug\net5.0\MitarbeiterVerwaltungSystem.runtimeconfig.json
+C:\Users\FP2402383\source\repos\MitarbeiterVerwaltungSystem\MitarbeiterVerwaltungSystem\bin\Debug\net5.0\MitarbeiterVerwaltungSystem.runtimeconfig.dev.json
+C:\Users\FP2402383\source\repos\MitarbeiterVerwaltungSystem\MitarbeiterVerwaltungSystem\bin\Debug\net5.0\MitarbeiterVerwaltungSystem.dll
+C:\Users\FP2402383\source\repos\MitarbeiterVerwaltungSystem\MitarbeiterVerwaltungSystem\bin\Debug\net5.0\MitarbeiterVerwaltungSystem.pdb
+C:\Users\FP2402383\source\repos\MitarbeiterVerwaltungSystem\MitarbeiterVerwaltungSystem\obj\Debug\net5.0\MitarbeiterVerwaltungSystem.csproj.AssemblyReference.cache
+C:\Users\FP2402383\source\repos\MitarbeiterVerwaltungSystem\MitarbeiterVerwaltungSystem\obj\Debug\net5.0\MitarbeiterVerwaltungSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FP2402383\source\repos\MitarbeiterVerwaltungSystem\MitarbeiterVerwaltungSystem\obj\Debug\net5.0\MitarbeiterVerwaltungSystem.AssemblyInfoInputs.cache
+C:\Users\FP2402383\source\repos\MitarbeiterVerwaltungSystem\MitarbeiterVerwaltungSystem\obj\Debug\net5.0\MitarbeiterVerwaltungSystem.AssemblyInfo.cs
+C:\Users\FP2402383\source\repos\MitarbeiterVerwaltungSystem\MitarbeiterVerwaltungSystem\obj\Debug\net5.0\MitarbeiterVerwaltungSystem.csproj.CoreCompileInputs.cache
+C:\Users\FP2402383\source\repos\MitarbeiterVerwaltungSystem\MitarbeiterVerwaltungSystem\obj\Debug\net5.0\MitarbeiterVerwaltungSystem.dll
+C:\Users\FP2402383\source\repos\MitarbeiterVerwaltungSystem\MitarbeiterVerwaltungSystem\obj\Debug\net5.0\refint\MitarbeiterVerwaltungSystem.dll
+C:\Users\FP2402383\source\repos\MitarbeiterVerwaltungSystem\MitarbeiterVerwaltungSystem\obj\Debug\net5.0\MitarbeiterVerwaltungSystem.pdb
+C:\Users\FP2402383\source\repos\MitarbeiterVerwaltungSystem\MitarbeiterVerwaltungSystem\obj\Debug\net5.0\MitarbeiterVerwaltungSystem.genruntimeconfig.cache
+C:\Users\FP2402383\source\repos\MitarbeiterVerwaltungSystem\MitarbeiterVerwaltungSystem\obj\Debug\net5.0\ref\MitarbeiterVerwaltungSystem.dll

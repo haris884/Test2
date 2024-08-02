@@ -1,0 +1,12 @@
+Vorname,Nachname,StatusImBetrieb,Gehalt,AnzahlJahreImBetrieb
+Arthur,OG,Aktiv,500000000,28
+Haris,Lil G,Aktiv,60000,22
+niemals G,Hühnemeier,Inaktiv,31,60
+Sebi G,Sigma,Aktiv,70000,22
+
+Max Gehalt: 500000000
+Min Gehalt: 31
+Summe Gehalt: 500130031
+Durchschnitt Gehalt: 125032507,75
+Standardabweichung Gehalt: 216487584,24155974
+Median Gehalt: 65000
