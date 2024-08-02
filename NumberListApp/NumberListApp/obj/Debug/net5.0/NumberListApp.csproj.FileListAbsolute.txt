@@ -1,0 +1,16 @@
+C:\Users\FP2402383\source\repos\NumberListApp\NumberListApp\bin\Debug\net5.0\NumberListApp.exe
+C:\Users\FP2402383\source\repos\NumberListApp\NumberListApp\bin\Debug\net5.0\NumberListApp.deps.json
+C:\Users\FP2402383\source\repos\NumberListApp\NumberListApp\bin\Debug\net5.0\NumberListApp.runtimeconfig.json
+C:\Users\FP2402383\source\repos\NumberListApp\NumberListApp\bin\Debug\net5.0\NumberListApp.runtimeconfig.dev.json
+C:\Users\FP2402383\source\repos\NumberListApp\NumberListApp\bin\Debug\net5.0\NumberListApp.dll
+C:\Users\FP2402383\source\repos\NumberListApp\NumberListApp\bin\Debug\net5.0\NumberListApp.pdb
+C:\Users\FP2402383\source\repos\NumberListApp\NumberListApp\obj\Debug\net5.0\NumberListApp.csproj.AssemblyReference.cache
+C:\Users\FP2402383\source\repos\NumberListApp\NumberListApp\obj\Debug\net5.0\NumberListApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FP2402383\source\repos\NumberListApp\NumberListApp\obj\Debug\net5.0\NumberListApp.AssemblyInfoInputs.cache
+C:\Users\FP2402383\source\repos\NumberListApp\NumberListApp\obj\Debug\net5.0\NumberListApp.AssemblyInfo.cs
+C:\Users\FP2402383\source\repos\NumberListApp\NumberListApp\obj\Debug\net5.0\NumberListApp.csproj.CoreCompileInputs.cache
+C:\Users\FP2402383\source\repos\NumberListApp\NumberListApp\obj\Debug\net5.0\NumberListApp.dll
+C:\Users\FP2402383\source\repos\NumberListApp\NumberListApp\obj\Debug\net5.0\refint\NumberListApp.dll
+C:\Users\FP2402383\source\repos\NumberListApp\NumberListApp\obj\Debug\net5.0\NumberListApp.pdb
+C:\Users\FP2402383\source\repos\NumberListApp\NumberListApp\obj\Debug\net5.0\NumberListApp.genruntimeconfig.cache
+C:\Users\FP2402383\source\repos\NumberListApp\NumberListApp\obj\Debug\net5.0\ref\NumberListApp.dll
